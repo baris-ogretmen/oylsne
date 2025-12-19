@@ -1,0 +1,2 @@
+# oylsne
+eğitim oyunu
